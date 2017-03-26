@@ -1,5 +1,6 @@
-#Connect 4
-<p>A two player Connect 4 game</p>
+<h1>Connect 4</h1>
+<p>A two player <a href ="https://en.wikipedia.org/wiki/Connect_Four">Connect 4</a> game</p>
+
 <p>Execution instructions:</p>
 <ol>
 <li>
